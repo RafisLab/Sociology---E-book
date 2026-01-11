@@ -1,0 +1,18 @@
+
+{
+  "name": "সমসাময়িক সমাজতাত্বিক তত্ত্ব - ই-বুক",
+  "short_name": "সমাজতত্ত্ব ই-বুক",
+  "description": "অফলাইন সমাজবিজ্ঞান ই-বুক অ্যাপ্লিকেশন",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3308/3308312.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
